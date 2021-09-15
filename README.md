@@ -1,2 +1,2 @@
 # hello_world
-Tutorial
+This is a Tutorial for CTEC 298
